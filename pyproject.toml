@@ -15,7 +15,8 @@ dependencies = [
     "jupyter (>=1.1.1,<2.0.0)",
     "scikit-learn (>=1.8.0,<2.0.0)",
     "openpyxl (>=3.1.5,<4.0.0)",
-    "xlrd (>=2.0.2,<3.0.0)"
+    "xlrd (>=2.0.2,<3.0.0)",
+    "python-dotenv (>=1.2.1,<2.0.0)"
 ]
 
 
